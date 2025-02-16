@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSMS-Backend.iml" filepath="$PROJECT_DIR$/.idea/CSMS-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSMS-Backend/car-selling-app.iml" filepath="$PROJECT_DIR$/CSMS-Backend/car-selling-app.iml" />
+    </modules>
+  </component>
+</project>
